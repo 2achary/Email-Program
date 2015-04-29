@@ -7,6 +7,6 @@ understanding of databases, Graphical User Interfaces,
 Python email objects, and overal object oriented concepts
 
 
-![alt text](https://github.com/2achary/Email-Application/blob/master/emailgui.png "screenshot of application running")
-[logo]: https://github.com/2achary/Email-Application/blob/master/emailgui.png
+![alt text](https://github.com/2achary/Email-Program/blob/master/emailgui.png "")
 
+[logo]: https://github.com/2achary/Email-Program/blob/master/emailgui.png ""
