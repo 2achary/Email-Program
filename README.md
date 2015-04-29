@@ -9,4 +9,4 @@ Python email objects, and overal object oriented concepts
 
 ![alt text](https://github.com/2achary/Email-Program/blob/master/emailgui.png "Screen shot of application running")
 
-[logo]: https://github.com/2achary/Email-Program/blob/master/emailgui.png ""
+
